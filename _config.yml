@@ -6,29 +6,26 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Long Qian
-tagline:          'Long Qian'
-description:      'Reality augmented.<br>My personal blog of tech and life.'
-url:              http://longqian.me/
+title:            Utkarsh Deep
+tagline:          'Utkarsh Deep'
+description:      'My personal blog of tech and life.'
+url:              http://utkarshdeep.github.io
 
 author:
-  name:           'Long Qian'
-  url:            http://longqian.me/
+  name:           'Utkarsh Deep'
+  url:            http://utkarshdeep.github.io
 
 paginate:         2
-google_analytics: 'UA-91425204-3'
-bing_seo:		  'ECA8D4503D79297E7BB223666F18CAF8'
-emailme:          mailto:lqian8@jhu.edu
-
+google_analytics: 'UA-117152855-1'
+emailme:          mailto:utkarshd80@gmail.com
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
-  repo:           https://github.com/qian256/qian256.github.io/
+  repo:           https://github.com/utkarshdeep/utkarshdeep.gihtub.io
 
 tags:
 
-github_username:  qian256
-facebook_username: joe.qian
-linkedin_username: long-qian
+github_username:  utkarshdeep
+linkedin_username: utkarsh-deep-34960565
 
 
