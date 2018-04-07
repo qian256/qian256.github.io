@@ -21,7 +21,7 @@ emailme:          mailto:utkarshd80@gmail.com
 gems:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
 
 github:
-  repo:           https://github.com/utkarshdeep/utkarshdeep.gihtub.io
+  repo:           https://github.com/utkarshdeep/utkarshdeep.github.io
 
 tags:
 
