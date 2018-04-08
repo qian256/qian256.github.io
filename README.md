@@ -1,10 +1,10 @@
 # My Blog
 
-Recording pieces of code and life. [http://longqian.me](http://longqian.me)
+My piece to the science community and for life. [https://utkarshdeep.github.io/](https://utkarshdeep.github.io/)
 
 ### Theme
 
-The theme is forked from [hyde](https://github.com/poole/hyde).
+The theme is forked from [qian256](https://github.com/qian256/qian256.github.io).
 
 ### License
 
