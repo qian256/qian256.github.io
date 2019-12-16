@@ -67,7 +67,7 @@ This liquid scripts creates the list `site.tags`.
 
 ### 3. Execute the collection
 
-You need to include the `collecttag.html` somewhere so that it is executed before `site.tags` are used.
+You need to include the `collecttags.html` somewhere so that it is executed before `site.tags` are used.
 
 My solution is to include it in `head.html` where Jekyll blogs defines the header. Google analytics script is also included here.
 
