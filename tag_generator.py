@@ -14,9 +14,11 @@ import glob
 import os
 
 post_dir = '_posts/'
+draft_dir = '_drafts/'
 tag_dir = 'tag/'
 
 filenames = glob.glob(post_dir + '*md')
+filenames = filenames + glob.glob(draft_dir + '*md')
 
 total_tags = []
 for filename in filenames:
