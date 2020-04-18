@@ -151,7 +151,7 @@ It triggers the building of a page at `site_dir/tag/hololens/`, with layout `_la
 
 > If you would like to repeat step 5.2. for all the tags of your site, then you can skip this step.
 
-Otherwise, I created a python script that crawls all the tags in the folder `_posts/` and generate the desired tag page at `tag/`. It can be accessed here: [tag generater](https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py).
+Otherwise, I created a python script that crawls all the tags in the folder `_posts/` and generate the desired tag page at `tag/`. It can be accessed here: [tag generator](https://github.com/qian256/qian256.github.io/blob/master/tag_generator.py).
 
 You need to run this script **before** you push everything to Github repository and wait for your Github page.
 
